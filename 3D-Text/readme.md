@@ -26,3 +26,4 @@ npm run build
   
   Dat.gui
   
+Demo link: https://laughing-beaver-20f709.netlify.app
