@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/style.css"],"names":[],"mappings":"AAAA;IACI,SAAS;IACT,UAAU;AACd;;AAEA;IACI,iBAAiB;IACjB,gBAAgB;AACpB,C","file":"main.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nbody{\r\n    min-height: 100vh;\r\n    overflow: hidden;\r\n}"],"sourceRoot":""}
