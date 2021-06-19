@@ -1,0 +1,12 @@
+Technologies Used:
+  -Three.js
+  -GSap
+  -Dat.gui
+
+Three.js:
+  camera: Prespective Camera
+  material: MeshNormal Material
+  geometries: -Text Geometry
+              -Box Geometry
+              -Sphere Geometry
+              -Torus Feometry
