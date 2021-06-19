@@ -20,8 +20,9 @@ npm run build
     geometries: -Text Geometry
                 -Box Geometry
                 -Sphere Geometry
-                -Torus Feometry
+                -Torus Geometry
   
   GSap
+  
   Dat.gui
   
