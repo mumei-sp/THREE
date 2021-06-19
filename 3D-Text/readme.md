@@ -13,14 +13,14 @@ npm run dev
 npm run build
 ```
 
-##Technologies Used:
-  -Three.js
+# Technologies Used:
+  ##Three.js
     camera: Prespective Camera
     material: MeshNormal Material
     geometries: -Text Geometry
                 -Box Geometry
                 -Sphere Geometry
                 -Torus Feometry
-  -GSap
-  -Dat.gui
+  ##GSap
+  ##Dat.gui
   
